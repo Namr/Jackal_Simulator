@@ -1,0 +1,3 @@
+[submodule "Packages/UnityROSUtils"]
+	path = Packages/UnityROSUtils
+	url = https://github.com/RobotCodeLab/UnityRosUtils.git
