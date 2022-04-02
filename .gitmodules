@@ -1,3 +1,6 @@
 [submodule "Packages/UnityROSUtils"]
 	path = Packages/UnityROSUtils
 	url = https://github.com/RobotCodeLab/UnityRosUtils.git
+[submodule "Packages/Maktub"]
+	path = Packages/Maktub
+	url = https://github.com/Namr/Jackal_Simulator.git
