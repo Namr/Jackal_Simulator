@@ -4,7 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - robot
+  - Goal
+  - Robot
   layers:
   - Default
   - TransparentFX

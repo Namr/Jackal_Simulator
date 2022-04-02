@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.ncsurobotcodelab.maktub": {
+      "version": "file:Maktub",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.robotics.ros-tcp-connector": "0.5.0-preview"
+      }
+    },
     "com.ncsurobotcodelab.unityrosutils": {
       "version": "file:UnityROSUtils",
       "depth": 0,

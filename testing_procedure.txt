@@ -1,0 +1,4 @@
+1. X: 0.5 Theta: 0.0 for 15 seconds
+2. X: -0.5 Theta 0.0 for 15 seconds
+3. X: 0.5 Theta: 1.0 for 15 seconds
+4. X: 0.5 Theta: -1.0 for 15 seconds
